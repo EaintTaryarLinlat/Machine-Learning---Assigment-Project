@@ -13,5 +13,3 @@ Key Highlights -
 Explores predictors of medical expenditures.
 Compares model performance and error rates.
 Implements outlier and high-leverage point analysis.
-
-Clone the repository and run the scripts to reproduce results and visualizations.
