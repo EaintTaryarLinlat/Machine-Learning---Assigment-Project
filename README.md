@@ -1,4 +1,5 @@
 This repository contains R implementations for analyzing an insurance dataset as part of the Machine Learning for Economics module. 
+
 It includes:
 Linear regression for medical expenditure analysis.
 Logistic regression, LDA, QDA, and k-NN for classification tasks.
@@ -12,4 +13,5 @@ Key Highlights -
 Explores predictors of medical expenditures.
 Compares model performance and error rates.
 Implements outlier and high-leverage point analysis.
+
 Clone the repository and run the scripts to reproduce results and visualizations.
